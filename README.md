@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Koech</h1>
-<h3 align="center">A passionate Backend and Mobile developer</h3>
+<h3 align="center">Backend Developer and Trying out Mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-ada&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-ada" /> </p>
 
